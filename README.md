@@ -33,6 +33,6 @@ Enjoy!
 
 # Screenshots
 
-![Helen1](https://github.com/riccardinhocala/Helen-Plank-Theme/blob/master/Plank%20Helen.png)
+![H1](https://github.com/riccardinhocala/Hyper-Plank-Theme/blob/master/Hyper.png)
 
-![Helen2](https://github.com/riccardinhocala/Helen-Plank-Theme/blob/master/Helen3.png)
+![H2](https://github.com/riccardinhocala/Hyper-Plank-Theme/blob/master/Hyper2.png)
